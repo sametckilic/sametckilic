@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate software developer from Türkiye!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sametckilic&label=Profile%20views&color=0e75b6&style=flat" alt="sametckilic" /> </p>
-
 - 🌱 I’m currently learning **.NET Core, Angular**
 
 - 📫 How to reach me **ciplakkilic@gmail.com**
