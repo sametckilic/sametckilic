@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate software developer from Türkiye!</h3>
 
-- 🌱 I’m currently learning **.NET Core, Angular**
+- 🌱 I’m currently learning **.NET Core**
 
 - 📫 How to reach me **ciplakkilic@gmail.com**
 
